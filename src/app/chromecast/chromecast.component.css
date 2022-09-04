@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    padding-top: 80px;
+    justify-content: space-around;
+}
+
+#cast-button-container {
+    width: 80px;
+}
